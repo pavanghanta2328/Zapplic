@@ -1,0 +1,3 @@
+export const BASE_URL = "http://localhost:8000/api/auth";
+// export const BASE_URL="http://localhost:8000/api/auth";
+export const GOOGLE_OAUTH_REDIRECT_URI = "https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=993847652610-3sus9p3inshkgai3lmgqmc7n1ged51b4.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8000%2Fapi%2Fauth%2Fgoogle%2Fcallback&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&state=GgfhbnXfRn9os89UKvVdnjGiEncMIo&access_type=offline&include_granted_scopes=true&prompt=consent";
